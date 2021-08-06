@@ -3,7 +3,7 @@ This is a node.js application which let's users browse through various camping a
 
 Live Demo
 
-To see the app in action, go to https://mysterious-thicket-79829.herokuapp.com/
+
 
 # Features
 
