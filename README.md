@@ -59,7 +59,5 @@ Responsive web design
 
   connect-flash
 
-  ## Deployment
-
-  Heroku
+ 
 
